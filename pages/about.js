@@ -23,17 +23,7 @@ const About = () => {
             </ul>
         </div>
     </h4>
-      <div className={styles.wrapper}>
-        <h1 className={styles.title}><a>CONTACT</a></h1>
-
-        <a className={styles.text}><p>{">"} MAIL </p></a>
-        <a>michelemaretto@style.com</a>
-        <a className={styles.text}><p>{">"} PHONE </p></a>
-        <a>+3935922661</a>
-        <a className={styles.text}><p>{">"} SOCIAL </p></a>
-        <a>@michelePussyfucker</a>
-      </div>
-    
+  
 
 
     </>

@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:300|Oswald);
 .wordCarousel {
+  
   font-size: 56px;
   font-weight: 100;
-  color: #eee;
+  color: black;
 }
 .wordCarousel div {
   overflow: hidden;
@@ -14,7 +15,7 @@
 }
 .wordCarousel div li {
   font-family: Serif;
-  color: #eee;
+  color: black;
   font-weight: 700;
   padding: 0 10px;
   height: 45px;
@@ -291,7 +292,7 @@ body {
   justify-content: center;
   background: black;
 }
-body::after {
+/*body::after {
   content: "";
   display: block;
   width: 110%;
@@ -301,6 +302,16 @@ body::after {
   z-index: -1;
   transform: rotate(20deg);
   border-radius: 50%;
+}*/
+
+body::after {
+  content: "";
+  display: block;
+  width: 110%;
+  height: 55vh;
+  background: url("IMG_17912.jpg") no-repeat left/120%;
+  position: absolute;
+  z-index: -10;
 }
 
 a {
@@ -311,10 +322,10 @@ nav {
   margin: 10px auto 250px;
   padding: 10px 0;
   display: flex;
-  color: white;
+  color: black;
   justify-content: flex-end;
   align-items: flex-end;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid grey;
 }
 nav a {
   margin-left: 12px;
@@ -327,8 +338,8 @@ footer {
   display: block;
   text-align: center;
   padding: 30px 0;
-  margin-top: 60px;
-  color: #777;
+  margin-top: 220px;
+  color: grey;
   border-top: 1px solid black;
 }
 
