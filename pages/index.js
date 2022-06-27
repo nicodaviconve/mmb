@@ -11,10 +11,10 @@ export default function Home() {
       <Head>
         <title>MicheleMaretto</title>
       </Head>
-      <h4 class="wordCarousel">
+      <h4 className="wordCarousel">
         <span>Michele Maretto </span>
         <div>
-            <ul class="flip4">
+            <ul className="flip4">
                 <li>Buildings</li>
                 <li>Renovation</li>
                 <li>Design</li>

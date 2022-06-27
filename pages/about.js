@@ -12,10 +12,10 @@ const About = () => {
         <title>MicheleMaretto | Contact</title>
         <meta name="keywords" content="MicheleMaretto"/>
       </Head>
-      <h4 class="wordCarousel">
+      <h4 className="wordCarousel">
         <span>Michele Maretto </span>
         <div>
-            <ul class="flip4">
+            <ul className="flip4">
                 <li>Buildings</li>
                 <li>Renovation</li>
                 <li>Design</li>
