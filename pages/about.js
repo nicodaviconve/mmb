@@ -9,7 +9,7 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>MicheleMaretto | Contact</title>
+        <title>MicheleMaretto | Portfolio</title>
         <meta name="keywords" content="MicheleMaretto"/>
       </Head>
       <h4 className="wordCarousel">
