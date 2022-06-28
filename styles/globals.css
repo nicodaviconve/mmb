@@ -309,7 +309,7 @@ body::after {
   display: block;
   width: 110%;
   height: 35vh;
-  background: url("marius-george-oprea_sauna.jpg") no-repeat left/120%;
+  background: url("https://raw.githubusercontent.com/nicodaviconve/mmb/main/styles/marius-george-oprea_sauna.jpg") no-repeat left/120%;
   /*background: url("https://raw.githubusercontent.com/nicodaviconve/mmb/main/styles/IMG_17912.jpg") no-repeat left/120%;*/
   position: absolute;
   z-index: -500;
