@@ -309,7 +309,7 @@ body::after {
   display: block;
   width: 110%;
   height: 55vh;
-  background: url("IMG_1791.jpg") no-repeat left/120%;
+  background: url("https://raw.githubusercontent.com/nicodaviconve/mmb/main/styles/IMG_17911.jpg") no-repeat left/120%;
   position: absolute;
   z-index: -10;
 }
